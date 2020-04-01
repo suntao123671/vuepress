@@ -22,4 +22,4 @@ before_install:
   - export TZ=Asia/Shanghai
 
 script:
-  - vuepress build
+  - npm build
